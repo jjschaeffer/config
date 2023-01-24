@@ -18,7 +18,7 @@
  <RememberCredentials>true</RememberCredentials>
  <TrustedNetworkDetection>hendersonbrothers.com</TrustedNetworkDetection>
   <DomainNameInformation>
- <DomainName>hendersonbrothers.com</DomainName>
+ <DomainName>.hendersonbrothers.com</DomainName>
  <DnsServers>10.2.79.10,10.2.79.11</DnsServers>
  </DomainNameInformation>
   <DomainNameInformation>
@@ -34,15 +34,7 @@
  <DnsServers>8.8.8.8,8.8.4.4</DnsServers>
  </DomainNameInformation>
 <DomainNameInformation>
- <DomainName>mail.hendersonbrothers.com</DomainName>
- <DnsServers>8.8.8.8,8.8.4.4</DnsServers>
- </DomainNameInformation>
-<DomainNameInformation>
  <DomainName>sso.hendersonbrothers.com</DomainName>
- <DnsServers>8.8.8.8,8.8.4.4</DnsServers>
- </DomainNameInformation>
-<DomainNameInformation>
- <DomainName>automate.hendersonbrothers.com</DomainName>
  <DnsServers>8.8.8.8,8.8.4.4</DnsServers>
  </DomainNameInformation>
  <DomainNameInformation>
