@@ -17,13 +17,17 @@
  <AlwaysOn>true</AlwaysOn>
  <RememberCredentials>true</RememberCredentials>
  <TrustedNetworkDetection>hendersonbrothers.com</TrustedNetworkDetection>
-<DomainNameInformation>
- <DomainName>mydesktop.hendersonbrothers.com</DomainName>
- <DnsServers>8.8.8.8,8.8.4.4</DnsServers>
- </DomainNameInformation>
   <DomainNameInformation>
  <DomainName>hendersonbrothers.com</DomainName>
  <DnsServers>10.2.79.10,10.2.79.11</DnsServers>
+ </DomainNameInformation>
+  <DomainNameInformation>
+ <DomainName>hbidc1.hendersonbrothers.com</DomainName>
+ <DnsServers>10.2.79.10,10.2.79.11</DnsServers>
+ </DomainNameInformation>
+  <DomainNameInformation>
+ <DomainName>mydesktop.hendersonbrothers.com</DomainName>
+ <DnsServers>8.8.8.8,8.8.4.4</DnsServers>
  </DomainNameInformation>
 <DomainNameInformation>
  <DomainName>hbhelp.hendersonbrothers.com</DomainName>
